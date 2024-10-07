@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://gudugubusaga.pages.dev/sitemap.xml
